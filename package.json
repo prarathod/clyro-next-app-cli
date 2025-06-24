@@ -1,0 +1,20 @@
+{
+  "name": "clyro-next-app",
+  "version": "1.0.2",
+  "description": "CLI to bootstrap a Clyro Next.js starter project",
+  "main": "bin.js",
+  "bin": {
+    "clyro-create-app": "./bin.js"
+  },
+  "keywords": [
+    "nextjs",
+    "starter",
+    "cli",
+    "clyro"
+  ],
+  "author": "Prajwal Rathod",
+  "license": "MIT",
+  "dependencies": {
+    "rimraf": "^6.0.1"
+  }
+}
